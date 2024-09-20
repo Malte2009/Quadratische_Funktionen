@@ -1,10 +1,6 @@
 from dictUtil import *
 from quadratischeFunktionen import *
-import os
 import shutil
-
-width = shutil.get_terminal_size().columns - 1
-height = shutil.get_terminal_size().lines
 
 width = int(input("Breite: "))
 height = int(input("Höhe: "))
