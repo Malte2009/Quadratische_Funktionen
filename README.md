@@ -6,7 +6,7 @@ Dieses Projekt befasst sich mit der Visualisierung quadratischer Funktionen in P
 
 1. Klone das Repository:
 	```bash
-	git clone https://github.com/Schlangenbursche/Quadratische_Funktionen.git
+	git clone https://github.com/Malte2009/Quadratische_Funktionen.git
 	```
 2. Navigiere in das Projektverzeichnis:
 	```bash
